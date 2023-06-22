@@ -1,0 +1,13 @@
+Frontend Code observation
+•	No code structuring and no code reusability at present in the code.
+•	App currently unable to set dynamic base URL for API externally.
+•	Rework required to create a production scalable application which will not have performance issue. No Lazy loading implemented at present.
+
+Front end 
+1)	Group the react  folder applications. – Ownership-- Ayush
+2)	Create only 1 API manager and use it in every API call. –Ownership—Ayush
+3)	Confirm if all variables are cleared for memory post usage- . –Ownership—Ayush
+4)	Environment configuration changes on front end -- Ownership—Vinoth
+Additional
+7)	Performance test environment requirement and a performance load tester to be confirmed by Sachin Tah—Ownership- Sachin Wad
+
